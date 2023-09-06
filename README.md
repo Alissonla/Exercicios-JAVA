@@ -1,4 +1,4 @@
 # Ficha de Exercicios em JAVA
 
-Resolução de exercicos de programação, utilizando Java.
+Resolução de exercicios de programação, utilizando Java.
 
